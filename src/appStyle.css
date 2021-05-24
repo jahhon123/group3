@@ -1,0 +1,56 @@
+
+
+.birinchi {
+    display: flex;
+  
+}
+
+.box-1, .box-2, .box-3{
+  width: 400px;
+  height: 250px;
+  border: red;
+  background-color: red;
+  display: flex;
+  margin: 30px;
+}
+
+h1{
+    color:  white;
+     text-align: center;
+     justify-content: center ;
+     align-items: center; 
+     padding: 105px;
+     bottom: 30px;
+
+    }
+    .fa-user, .fa-angellist, .fa-apple{ 
+  color: white;
+  margin: 40px;
+  font-size: 50px;
+}
+.ikkinchi {
+    display: flex;
+  
+}
+.box-4, .box-5, .box-6{
+    width: 400px;
+    height: 250px;
+    /* border: red;
+    background-color: red; */
+    display: flex;
+    margin: 30px;
+  }
+  .fa-address-book, .fa-american-sign-language-interpreting, .fa-address-card{ 
+    color: rgb(17, 14, 14);
+    padding-right: 240px;
+    font-size: 40px;
+  }
+  h4{
+      color: tomato;
+      
+
+      align-items: center;
+      text-align: center;
+      
+  }
+  
